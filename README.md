@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alexander Villarroel (Alex)
+# 👋 Hola, soy Alexander Villarroel Torrico
 
 <p align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" />
@@ -14,9 +14,7 @@
 ## 🛡️ Sobre mí
 
 Soy estudiante de **Informática**, apasionado por la **seguridad de la información**, la **criptografía** y el funcionamiento interno de los sistemas.
-
 Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los **fundamentos digitales** hasta la **seguridad de aplicaciones y datos**.
-
 📚 En constante aprendizaje y siempre abierto a nuevos retos.
 
 ---
@@ -57,22 +55,6 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 - 🧠 Mejorar mi lógica y calidad de código
 - 📁 Crear proyectos propios bien documentados
 - 🤝 Colaborar y aprender de la comunidad
-
----
-
-## 🏆 Certificaciones & Logros
-
-- 📜 *En progreso...* Preparándome para certificaciones en ciberseguridad
-- 🎖️ Proyectos académicos en criptografía y seguridad de redes
-- 💡 Participación en competencias de programación
-
----
-
-## 📚 Proyectos Destacados
-
-🔹 **Sistema de cifrado RSA en Python** - Implementación de algoritmo RSA desde cero  
-🔹 **Analizador de vulnerabilidades SQL** - Herramienta para detectar SQL Injection  
-🔹 **Gestor de contraseñas cifrado** - Aplicación Java con cifrado AES  
 
 ---
 
