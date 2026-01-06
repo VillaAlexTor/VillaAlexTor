@@ -14,7 +14,9 @@
 ## 🛡️ Sobre mí
 
 Soy estudiante de **Informática**, apasionado por la **seguridad de la información**, la **criptografía** y el funcionamiento interno de los sistemas.
+
 Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los **fundamentos digitales** hasta la **seguridad de aplicaciones y datos**.
+
 📚 En constante aprendizaje y siempre abierto a nuevos retos.
 
 ---
