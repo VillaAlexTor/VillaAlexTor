@@ -1,80 +1,82 @@
 # 👋 Hola, soy Alexander Villarroel (Alex)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 🎓 **Estudiante de Informática**  
-🔐 **Interesado en Seguridad de la Información & Criptografía**  
-💻 **Programador Java | Bases de Datos | Sistemas Digitales**  
-🌎 Bolivia 🇧🇴
+🔐 **Seguridad de la Información & Criptografía**  
+💻 **Java | Python | Bases de Datos | Sistemas Digitales**  
+🌎 Bolivia 🇧🇴  
 
 ---
 
-## 🚀 Sobre mí
+## 🛡️ Sobre mí
 
-Soy estudiante de Informática con un fuerte interés en **seguridad de la información**, **criptografía** y **análisis de sistemas**.  
-Me gusta entender **cómo funcionan las cosas por dentro**, desde los **fundamentos digitales** hasta la **seguridad de aplicaciones y sistemas**.
+Soy estudiante de **Informática**, apasionado por la **seguridad de la información**, la **criptografía** y el funcionamiento interno de los sistemas.
 
-Actualmente estoy fortaleciendo mis conocimientos en:
-- Programación
-- Seguridad informática
-- Bases de datos
-- Sistemas digitales y lógica computacional
+Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los **fundamentos digitales** hasta la **seguridad de aplicaciones y datos**.
+
+📚 En constante aprendizaje y siempre abierto a nuevos retos.
 
 ---
 
 ## 🧠 Áreas de interés
 
 - 🔐 Seguridad de la Información  
-- 🔑 Criptografía (simétrica, asimétrica, primalidad, ECC)  
-- ☕ Programación en **Java**
-- 🗄️ Bases de Datos y SQL
+- 🔑 Criptografía (simétrica, asimétrica, ECC, primalidad)
+- ☕🐍 Programación en **Java y Python**
+- 🗄️ Bases de Datos & SQL
 - 🧩 Lógica Digital y Arquitectura de Computadores
 - 🐧 Linux / Kali Linux
-- 🕵️‍♂️ Análisis forense digital (básico)
+- 🕵️‍♂️ Análisis forense digital
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías & Herramientas
 
 ### Lenguajes
-- Java ☕
-- SQL
-- Conocimientos básicos en otros lenguajes según proyecto
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas
-- Git & GitHub
-- VirtualBox
-- Kali Linux
-- MySQL
-- Windows / Linux
+### Sistemas & Herramientas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-## 📂 Qué encontrarás en mis repositorios
-
-- 📌 Ejercicios académicos
-- 📌 Proyectos en Java
-- 📌 Algoritmos y lógica
-- 📌 Prácticas de bases de datos
-- 📌 Experimentos relacionados con seguridad informática
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ---
 
 ## 🎯 Objetivos
 
-- Profundizar en **seguridad informática**
-- Aprender herramientas de **pentesting**
-- Mejorar mi lógica y calidad de código
-- Crear proyectos propios y documentarlos correctamente
-- Compartir conocimiento y aprender de la comunidad
+- 🚀 Especializarme en **Seguridad de la Información**
+- 🛡️ Aprender herramientas de **pentesting**
+- 🧠 Mejorar mi lógica y calidad de código
+- 📁 Crear proyectos propios bien documentados
+- 🤝 Colaborar y aprender de la comunidad
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderVillarroel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderVillarroel&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-Si te interesa colaborar o intercambiar ideas:
-
-- 💬 GitHub: **@AlexanderVillarroel**
-- 📌 Siempre abierto a aprender algo nuevo
+💬 GitHub: **@VillaAlexTor**
 
 ---
 
-> *"La seguridad no es un producto, es un proceso."* 🔐
+> 🔐 *"La seguridad no es un producto, es un proceso."*
