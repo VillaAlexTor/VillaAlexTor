@@ -1,7 +1,7 @@
 # 👋 Hola, soy Alexander Villarroel (Alex)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" />
 </p>
 
 🎓 **Estudiante de Informática**  
@@ -44,7 +44,6 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -61,21 +60,26 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🏆 Certificaciones & Logros
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderVillarroel&show_icons=true&theme=tokyonight" />
-</p>
+- 📜 *En progreso...* Preparándome para certificaciones en ciberseguridad
+- 🎖️ Proyectos académicos en criptografía y seguridad de redes
+- 💡 Participación en competencias de programación
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderVillarroel&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 📚 Proyectos Destacados
+
+🔹 **Sistema de cifrado RSA en Python** - Implementación de algoritmo RSA desde cero  
+🔹 **Analizador de vulnerabilidades SQL** - Herramienta para detectar SQL Injection  
+🔹 **Gestor de contraseñas cifrado** - Aplicación Java con cifrado AES  
 
 ---
 
 ## 📫 Contacto
 
-💬 GitHub: **@VillaAlexTor**
+💬 **GitHub:** [@VillaAlexTor](https://github.com/VillaAlexTor)  
+📧 **Email:** alexvillarroeltorrico@gmail.com  
 
 ---
 
