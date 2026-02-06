@@ -67,19 +67,12 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 ---
 
 ## 📫 Contacto
-
-💬 **GitHub:** [@VillaAlexTor](https://github.com/VillaAlexTor)  
-📧 **Email:** alexvillarroeltorrico@gmail.com  
-
 <p align="center">
   <a href="https://github.com/VillaAlexTor">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:alexvillarroeltorrico@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil"> <!-- Si tienes LinkedIn -->
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
