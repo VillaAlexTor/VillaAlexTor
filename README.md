@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alexander Villarroel Torrico
+# 👋 Hola, soy Alexander J. Villarroel Torrico
 
 <p align="center">
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" />
