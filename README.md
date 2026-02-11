@@ -82,4 +82,4 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Seguridad+de+la+Informaci%C3%B3n;Criptograf%C3%ADa+%26+Pentesting;Desarrollo+Full+Stack" alt="Typing SVG" />
 </p>
 
-> 🔐 *"La seguridad no es un producto, es un proceso."*
+> 🔐 *"La seguridad no es un producto, es un proceso. "*
