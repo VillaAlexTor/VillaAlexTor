@@ -57,6 +57,7 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005E86?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### IDEs & Editores
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -73,6 +74,23 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+---
+
+## 🔒 Seguridad Aplicada
+
+Prácticas y técnicas de seguridad que aplico en el desarrollo de aplicaciones y sistemas:
+
+### 🛡️ Hardening & Políticas HTTP
+![CSP Hardening](https://img.shields.io/badge/CSP_Hardening-E34F26?style=for-the-badge&logo=firefox&logoColor=white)
+![Referrer Policy](https://img.shields.io/badge/Referrer--Policy-0078D6?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+
+### 🧹 Sanitización & Autenticación
+![XSS Sanitization](https://img.shields.io/badge/XSS_Sanitization-F05032?style=for-the-badge&logo=owasp&logoColor=white)
+![Password Hashing](https://img.shields.io/badge/Password_Hashing-3776AB?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+### 🗄️ Auditoría de Base de Datos
+![Audit Tables](https://img.shields.io/badge/Tablas_de_Auditoría-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
