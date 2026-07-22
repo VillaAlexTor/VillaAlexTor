@@ -72,7 +72,6 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 
 ### ▸ Conocimientos en
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -104,19 +103,15 @@ Herramientas y prácticas que aplico en reconocimiento, pentesting y análisis f
 
 ---
 
-## [>>] Objetivos actuales
-
 ## [>>] Objetivos
 
-- [ ] Especializarme en **Seguridad de la Información**
-- [ ] Aprender herramientas de **pentesting**
-- [ ] Mejorar mi lógica y calidad de código
-- [ ] Crear proyectos propios bien documentados
-- [ ] Colaborar y aprender de la comunidad
 - [ ] Consolidar bug bounty hunting (programas VDP en HackerOne/Bugcrowd)
 - [ ] Crecer en freelance (Workana) con Go/Next.js
+- [ ] Crear proyectos propios bien documentados
 - [ ] Profundizar en seguridad ofensiva y forense digital
-      
+- [ ] Mejorar mi lógica y calidad de código
+- [ ] Colaborar y aprender de la comunidad
+
 ---
 
 ## [∂] Contacto
