@@ -104,25 +104,19 @@ Herramientas y prácticas que aplico en reconocimiento, pentesting y análisis f
 
 ---
 
-## [★] Proyectos destacados
-
-### ▸ NUGEO
-Sistema institucional de monitoreo para el IIGEO-UMSA.
-`Go/Gin` · `Next.js 15` · `PostgreSQL` (13 tablas) · API REST de 29 endpoints · arquitectura de 5 roles · auth JWT + Zustand.
-
-### ▸ Cóndor Framework
-Pipeline de reconocimiento OSINT pasivo con motor propio de CVSS 3.1.
-`condor-cli` (Python) · `condor-dashboard` (React) · reportes PDF automatizados.
-
----
-
 ## [>>] Objetivos actuales
 
+## [>>] Objetivos
+
+- [ ] Especializarme en **Seguridad de la Información**
+- [ ] Aprender herramientas de **pentesting**
+- [ ] Mejorar mi lógica y calidad de código
+- [ ] Crear proyectos propios bien documentados
+- [ ] Colaborar y aprender de la comunidad
 - [ ] Consolidar bug bounty hunting (programas VDP en HackerOne/Bugcrowd)
 - [ ] Crecer en freelance (Workana) con Go/Next.js
-- [ ] Publicar NUGEO y Cóndor Framework como piezas centrales de mi portafolio
 - [ ] Profundizar en seguridad ofensiva y forense digital
-
+      
 ---
 
 ## [∂] Contacto
