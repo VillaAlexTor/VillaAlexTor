@@ -13,7 +13,8 @@
 
 Soy estudiante de **Informática** en la **UMSA**, con mención en **Seguridad de la Información**. Me enfoco en el desarrollo backend con **Go**, frontend moderno con **Next.js/TypeScript**, y en el lado ofensivo/defensivo: **OSINT, pentesting y forense digital**.
 
-Actualmente construyo mis dos proyectos insignia: **NUGEO** (sistema institucional de monitoreo) y **Cóndor Framework** (pipeline de reconocimiento OSINT pasivo).
+Apasionado por la **seguridad de la información**, la **criptografía** y el funcionamiento interno de los sistemas.
+Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los **fundamentos digitales** hasta la **seguridad de aplicaciones y datos**.
 
 [*] En constante aprendizaje y siempre abierto a nuevos retos.
 
