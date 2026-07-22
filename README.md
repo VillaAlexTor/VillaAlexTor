@@ -23,9 +23,12 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 ## [#] Áreas de interés
 
 - [+] Seguridad de la Información (pentesting, OSINT, forense digital)
+- [+] Criptografía (simétrica, asimétrica, ECC, primalidad)
+- [+] Bases de Datos & SQL
 - [+] Desarrollo backend con **Go** y frontend con **Next.js/React**
 - [+] Arquitectura de sistemas multi-rol y APIs REST
 - [+] Análisis de logs y detección (Sysmon, Hayabusa, MITRE ATT&CK)
+- [+] Lógica Digital y Arquitectura de Computadores
 - [+] Automatización y scripting en **Python**
 - [+] Linux / Kali Linux
 
