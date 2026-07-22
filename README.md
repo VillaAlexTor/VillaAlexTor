@@ -4,18 +4,18 @@
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" />
 </p>
 
-◈ **Estudiante de Informática**  
-◈ **Seguridad de la Información & Criptografía**  
-◈ **Java | Python | Bases de Datos | Sistemas Digitales**  
-◈ Bolivia ⌖  
+◈ **Estudiante de Informática — UMSA (Bolivia)**
+◈ **Mención: Seguridad de la Información**
+◈ **Go | Next.js | TypeScript | PostgreSQL**
+◈ Bolivia ⌖
 
 ---
 
 ## [§] Sobre mí
 
-Soy estudiante de **Informática**, apasionado por la **seguridad de la información**, la **criptografía** y el funcionamiento interno de los sistemas.
+Soy estudiante de **Informática** en la **UMSA**, con mención en **Seguridad de la Información**. Me enfoco en el desarrollo backend con **Go**, frontend moderno con **Next.js/TypeScript**, y en el lado ofensivo/defensivo: **OSINT, pentesting y forense digital**.
 
-Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los **fundamentos digitales** hasta la **seguridad de aplicaciones y datos**.
+Actualmente construyo mis dos proyectos insignia: **NUGEO** (sistema institucional de monitoreo) y **Cóndor Framework** (pipeline de reconocimiento OSINT pasivo), además de iniciarme en **bug bounty** (HackerOne/Bugcrowd) y freelance en **Workana**.
 
 [*] En constante aprendizaje y siempre abierto a nuevos retos.
 
@@ -23,51 +23,34 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 
 ## [#] Áreas de interés
 
-- [+] Seguridad de la Información  
-- [+] Criptografía (simétrica, asimétrica, ECC, primalidad)
-- [+] Programación en **Java y Python**
-- [+] Bases de Datos & SQL
-- [+] Lógica Digital y Arquitectura de Computadores
+- [+] Seguridad de la Información (pentesting, OSINT, forense digital)
+- [+] Desarrollo backend con **Go** y frontend con **Next.js/React**
+- [+] Arquitectura de sistemas multi-rol y APIs REST
+- [+] Análisis de logs y detección (Sysmon, Hayabusa, MITRE ATT&CK)
+- [+] Automatización y scripting en **Python**
 - [+] Linux / Kali Linux
-- [+] Análisis forense digital
 
 ---
 
-## [>_] Tecnologías & Herramientas
+## [>_] Stack principal
 
-### ▸ Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ▸ Frameworks & Desarrollo Web/Móvil
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### ▸ Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-593D88?style=for-the-badge&logo=react&logoColor=white)
 
-### ▸ Plataformas & Cloud
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### ▸ Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ▸ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005E86?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### ▸ Bases de Datos & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ▸ IDEs & Editores
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ▸ Sistemas & Herramientas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -75,35 +58,44 @@ Me gusta analizar cómo se construyen y cómo se rompen los sistemas, desde los 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
-## [!] Seguridad Aplicada
+## [!] Seguridad Ofensiva & Forense
 
-Prácticas y técnicas de seguridad que aplico en el desarrollo de aplicaciones y sistemas:
+Herramientas y prácticas que aplico en reconocimiento, pentesting y análisis forense:
 
-### ▸ Hardening & Políticas HTTP
-![CSP Hardening](https://img.shields.io/badge/CSP_Hardening-E34F26?style=for-the-badge&logo=firefox&logoColor=white)
-![Referrer Policy](https://img.shields.io/badge/Referrer--Policy-0078D6?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-EE2E24?style=for-the-badge&logo=shodan&logoColor=white)
+![Censys](https://img.shields.io/badge/Censys-0A2540?style=for-the-badge&logo=censys&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-D2232A?style=for-the-badge&logo=mitre&logoColor=white)
 
-### ▸ Sanitización & Autenticación
-![XSS Sanitization](https://img.shields.io/badge/XSS_Sanitization-F05032?style=for-the-badge&logo=owasp&logoColor=white)
-![Password Hashing](https://img.shields.io/badge/Password_Hashing-3776AB?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-### ▸ Auditoría de Base de Datos
-![Audit Tables](https://img.shields.io/badge/Tablas_de_Auditoría-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+- **OSINT & Reconocimiento pasivo:** Shodan, Censys, DNSDumpster, FOCA, Maltego
+- **Forense digital:** FTK Imager, adquisición E01, verificación de hashes
+- **Análisis de logs:** Sysmon + Hayabusa, mapeo a MITRE ATT&CK
+- **CVSS 3.1:** cálculo y reporting de severidad
 
 ---
 
-## [>>] Objetivos
+## [★] Proyectos destacados
 
-- [ ] Especializarme en **Seguridad de la Información**
-- [ ] Aprender herramientas de **pentesting**
-- [ ] Mejorar mi lógica y calidad de código
-- [ ] Crear proyectos propios bien documentados
-- [ ] Colaborar y aprender de la comunidad
+### ▸ NUGEO
+Sistema institucional de monitoreo para el IIGEO-UMSA.
+`Go/Gin` · `Next.js 15` · `PostgreSQL` (13 tablas) · API REST de 29 endpoints · arquitectura de 5 roles · auth JWT + Zustand.
+
+### ▸ Cóndor Framework
+Pipeline de reconocimiento OSINT pasivo con motor propio de CVSS 3.1.
+`condor-cli` (Python) · `condor-dashboard` (React) · reportes PDF automatizados.
+
+---
+
+## [>>] Objetivos actuales
+
+- [ ] Consolidar bug bounty hunting (programas VDP en HackerOne/Bugcrowd)
+- [ ] Crecer en freelance (Workana) con Go/Next.js
+- [ ] Publicar NUGEO y Cóndor Framework como piezas centrales de mi portafolio
+- [ ] Profundizar en seguridad ofensiva y forense digital
 
 ---
 
@@ -121,7 +113,7 @@ Prácticas y técnicas de seguridad que aplico en el desarrollo de aplicaciones 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Seguridad+de+la+Informaci%C3%B3n;Criptograf%C3%ADa+%26+Pentesting;Desarrollo+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Seguridad+de+la+Informaci%C3%B3n;Go+%2B+Next.js+%2B+PostgreSQL;OSINT+%26+Pentesting" alt="Typing SVG" />
 </p>
 
 > `// "La seguridad no es un producto, es un proceso."`
