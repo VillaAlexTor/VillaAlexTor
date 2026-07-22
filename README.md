@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" />
 </p>
 
-◈ **Estudiante de Informática — UMSA (Bolivia)**
+◈ **Estudiante de Informática - UMSA (Bolivia)**
 ◈ **Mención: Seguridad de la Información**
 
 ---
