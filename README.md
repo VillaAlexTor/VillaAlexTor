@@ -6,7 +6,6 @@
 
 ◈ **Estudiante de Informática — UMSA (Bolivia)**
 ◈ **Mención: Seguridad de la Información**
-◈ **Go | Next.js | TypeScript | PostgreSQL**
 
 ---
 
